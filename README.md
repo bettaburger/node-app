@@ -1,1 +1,1 @@
-Testing Node.js with backend Express deployed in Docker container. 
+Testing Node.js with backend Express deployed in a Docker container. 
